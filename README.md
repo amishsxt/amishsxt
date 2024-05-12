@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://github.com/amishsxt/amishsxt/assets/93335461/ccc3fbf4-d081-4382-91a7-b6561e2132aa)
 <h1 align="center">Hi 👋, I'm Amish Rana</h1>
 <h3 align="center">Passionate Android App Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/amishsxt/amishsxt/assets/93335461/8c82f7b0-c58a-4fd0-9c25-07281fb7d61d"/>
