@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amishsxt&label=Profile%20views&color=0e75b6&style=flat" alt="amishsxt" /> </p>
 
-- 🔭 I’m currently learning **Jetpack Compose**
+- 🔭 I’m currently learning **Unity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amishsxt?tab=repositories](https://github.com/amishsxt?tab=repositories)
 
