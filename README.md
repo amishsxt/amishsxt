@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amishsxt&label=Profile%20views&color=0e75b6&style=flat" alt="amishsxt" /> </p>
 
-- 🔭 I’m currently learning **Unity**
+- 🔭 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Native Android App Development**
 
