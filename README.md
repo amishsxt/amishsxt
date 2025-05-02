@@ -29,11 +29,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=amishsxt&count_private=true&show_icons=true&theme=radical" alt="amishsxt" />
 </div>
 
-## My Activity
-<div class="image-container" align="start">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amishsxt&theme=radical" alt="amishsxt" />
-</div>
-
 ## Most Used Languages
 <div class="image-container" align="start">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amishsxt&show_icons=true&locale=en&layout=compact&theme=radical" alt="amishsxt" />
