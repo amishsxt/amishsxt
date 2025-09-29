@@ -96,8 +96,6 @@
 </div>
 
 ## Most Used Languages
-<div class="image-container" align="start">
-    <img src="https://www.vectorlogo.zone/logos/adobe_photoshop/adobe_photoshop-icon.svg" alt="photoshop" width="40" height="40"/>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amish&layout=compact&theme=radical)
 
 
