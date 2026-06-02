@@ -86,16 +86,3 @@
   </a> 
 
 </p>
-
-
-<br>
-
-## My GitHub Stats
-<div class="image-container" align="start">
-    <img src="https://github-readme-stats.vercel.app/api?username=amishsxt&count_private=true&show_icons=true&theme=radical" alt="amishsxt" />
-</div>
-
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amish&layout=compact&theme=radical)
-
-
